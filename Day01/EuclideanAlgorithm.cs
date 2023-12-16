@@ -19,6 +19,6 @@ int QuickEuclideanAlgorithm(int x, int y)
   return x;
 }
 
-int from = 21, to = 14;
+int from = 125, to = 35;
 
 Console.WriteLine(QuickEuclideanAlgorithm(from, to));
